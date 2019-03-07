@@ -3,11 +3,11 @@
 My Topic: Unity Shader
 
 My Schedule:
-    1. review computer rendering pipeline
-    2. learn unity shader language
-    3. try first shader under the guide
-    
-Project 1 List of Content:
+    1. Review computer rendering pipeline
+    2. Learn unity shader language
+    3. Try first shader following the guide
+
+List of Content:
     pdf file
     shader file(source code)
     demo(webgl)
