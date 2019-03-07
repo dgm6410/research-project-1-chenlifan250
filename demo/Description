@@ -1,7 +1,10 @@
 Project 1: Normal Shader
 
-Description: I write a shader (not original, following a book) which colors every point of the object according to the normal vector of each point
+Description: 
+I write a shader (not original, following a book) which colors every point of the object according to the normal vector of each point
 
 Feature:
 - the objects are rendered by the shader I write
 - the camera can be controlled
+
+https://dgm6410.github.io/research-project-1-chenlifan250/demo/index
