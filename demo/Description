@@ -1,0 +1,7 @@
+Project 1: Normal Shader
+
+Description: I write a shader (not original, following a book) which colors every point of the object according to the normal vector of each point
+
+Feature:
+- the objects are rendered by the shader I write
+- the camera can be controlled
