@@ -16,13 +16,12 @@ Link: https://dgm6410.github.io/research-project-1-chenlifan250/demo/index
 - Description: 
 I write a shader (not original, following a book) which colors every point of the object according to the normal vector of each point
 
--------------------------------------------------------------
-
 - My Schedule:
     - Review computer rendering pipeline
     - Learn unity shader language
     - Try first shader following the guide
 
+-------------------------------------------------------------
 
 List of Content:
 -------------------------------------------------------------
