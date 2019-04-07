@@ -19,7 +19,6 @@ I write a shader (not original, following a book) which colors every point of th
 -------------------------------------------------------------
 
 - My Schedule:
--------------------------------------------------------------
     - Review computer rendering pipeline
     - Learn unity shader language
     - Try first shader following the guide
